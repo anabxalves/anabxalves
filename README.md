@@ -12,7 +12,7 @@
 ---
 
 ### :woman_technologist: Hi, I'm Ana!
-I'm a Computer Science student from Brasil.
+I'm a developer from Brasil.
 
 - :books: Currently coursing my 2nd semester of Computer Science at CESAR School.
 
