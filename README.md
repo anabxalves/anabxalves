@@ -11,7 +11,7 @@
 
 ---
 
-### :woman_technologist: About me :
+### :woman_technologist: Hi, I'm Ana!
 I'm a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brasil.
 
 - :books: Currently coursing my 2nd semester of Computer Science at CESAR School.
@@ -35,6 +35,8 @@ I'm a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anabxalves&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabxalves&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anabxalves">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anabxalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabxalves&layout=compact&langs_count=7&theme=dark"/>
+</div>
