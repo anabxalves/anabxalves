@@ -13,11 +13,6 @@
     </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="250"/>
-</div>
-
----
 ### :woman_technologist: About me :
 I'm a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brasil.
 
@@ -28,3 +23,13 @@ I'm a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpO
 - :zap: In my free time, I volunteer at MUNs and practice sports and music.
 
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-anabxalves-white?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/anabeatrizxalves/)
+
+---
+### :card_file_box: Languages and Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+</div>
