@@ -12,14 +12,9 @@
 ---
 
 ### :woman_technologist: Hi, I'm Ana!
-I'm a developer from Brasil.
-
 - :books: Currently coursing my 2nd semester of Computer Science at CESAR School.
-
 - :computer: Learning C, Haskell, Python, Django, Css and Html.
-
 - :zap: In my free time, I volunteer at MUNs and practice sports and music.
-
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-anabxalves-white?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/anabeatrizxalves/)
 
 ---
