@@ -16,7 +16,7 @@ I'm a developer from Brasil.
 
 - :books: Currently coursing my 2nd semester of Computer Science at CESAR School.
 
-- :computer: Learning C and Django.
+- :computer: Learning C, Haskell, Python, Django, Css and Html.
 
 - :zap: In my free time, I volunteer at MUNs and practice sports and music.
 
@@ -26,11 +26,30 @@ I'm a developer from Brasil.
 ### :card_file_box: Languages and Tools
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <table align= "center">
+    <tr>
+      <td>
+        <p>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="60" height="60"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
+        </p>
+      </td>
+      <td>
+        <p>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="60" height="60"/>&nbsp;
+        </p>
+      </td>
+      <td>
+        <p>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css3" alt="Css3" width="60" height="60"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html5" alt="Html5" width="60" height="60"/>&nbsp;
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
