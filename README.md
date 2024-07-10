@@ -12,7 +12,7 @@
 ---
 
 ### :woman_technologist: Hi, I'm Ana!
-- :books: Currently coursing my 4rd semester of Computer Science at CESAR School.
+- :books: Currently coursing my 5th semester of Computer Science at CESAR School.
 - :computer: Learning about Computer Networking, structure and projection of Data Bases, Data Visualization and Computer Theory.
 - :zap: In my free time, I volunteer at MUNs and practice sports and music.
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-anabxalves-white?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/anabeatrizxalves/)
