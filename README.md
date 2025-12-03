@@ -12,10 +12,10 @@
 ---
 
 ### :woman_technologist: Hi, I'm Ana!
-Student, Software Engineer and Fullstack Developer based in Recife/PE, coursing my 6th semester of Computer Science at CESAR School. 
+Student, Software Engineer and Fullstack Developer based in Recife/PE, coursing my 7th semester of Computer Science at CESAR School. 
 Currently I'm:
-- :computer: Learning about Advanced Algorithm Analysis, Information Security, Machine Learning and Embedded Systems.
-- :zap: In my free time, I volunteer at MUNs and practice sports and music.
+- :computer: Learning about Infrastructure as Code and Devops, Site Reliability Engineering and Data Governance.
+- :zap: In my free time, I practice sports, as well as follow Cinema and Music.
 - :arrow_forward: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/%40-anabxalves-blue)](https://www.linkedin.com/in/anabeatrizxalves/)
 
 ---
