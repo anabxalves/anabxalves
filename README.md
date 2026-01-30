@@ -43,4 +43,4 @@ I'm a **Software Engineer & Fullstack Developer** based in Recife/PE, currently 
 ---
 
 ### 🗞️ Latest Activity
-*Activity will be updated here automatically.*
+No recent public activity!
