@@ -1,60 +1,46 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif" width="200"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <br><br>
+</p>
 
-<div id="badges">
-    <a href="https://www.linkedin.com/in/anabeatrizxalves/">
-        <img src= "https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
-    </a>
-    </div>
-    <img src="https://komarev.com/ghpvc/?username=anabxalves&style=flat-square&color=blue" alt=""/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anabeatrizxalves/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=anabxalves&style=for-the-badge&color=blue" alt="views" />
+</p>
 
----
+# 👩‍💻 Hi, I'm Ana Beatriz!
 
-### :woman_technologist: Hi, I'm Ana!
-Student, Software Engineer and Fullstack Developer based in Recife/PE, coursing my 7th semester of Computer Science at CESAR School. 
-Currently I'm:
-- :computer: Learning about Infrastructure as Code and Devops, Site Reliability Engineering and Data Governance.
-- :zap: In my free time, I practice sports, as well as follow Cinema and Music.
-- :arrow_forward: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/%40-anabxalves-blue)](https://www.linkedin.com/in/anabeatrizxalves/)
+I'm a **Software Engineer & Fullstack Developer** based in Recife/PE, currently in my 8th semester at <a href=https://www.cesar.school>**CESAR School**</a>.
 
----
-### :card_file_box: Languages and Tools
-
-<div>
-  <table align= "center">
-    <tr>
-      <td>
-        <p>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-        </p>
-      </td>
-      <td>
-        <p>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="60" height="60"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
-        </p>
-      </td>
-      <td>
-        <p>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="60" height="60"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css3" alt="Css3" width="60" height="60"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html5" alt="Html5" width="60" height="60"/>&nbsp;
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+- 🔭 **Working on:** Developing a Data Governance Framework for Data Lakehouse Architectures, currently performing a systematic literature review to bridge the gap between Big Data flexibility and RDBMS reliability.
+- ⚡ **Fun Fact:** I'm a big fan of cinema, music, and sports when I'm not coding.
 
 ---
 
-### :fire: My Stats :
+### 🚀 Tech Stack
 
-<div align="center">
-  <a href="https://github.com/anabxalves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anabxalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+<table border="0">
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,c" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,js,html,css" /></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,githubactions,mysql,postgres,postman" /></td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<a href="https://stats.hyo.dev/stats/anabxalves"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=anabxalves" width="600" /></a>
+
+---
+
+### 🗞️ Latest Activity
+*Activity will be updated here automatically.*
