@@ -2,14 +2,15 @@ name: Weekly Profile Update
 
 on:
   schedule:
-    - cron: '0 0 * * 0' 
+    - cron: '0 0 * * 0'
   workflow_dispatch:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,13 +23,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Update README
+      - name: Run Update Script
         run: python scripts/update_readme.py
 
-      - name: Commit and Push
-        run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add README.md
-          git commit -m "docs: weekly profile sync [skip ci]" || exit 0
-          git push
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "docs: update latest activity"
+          title: "🗞️ Weekly Activity Update"
+          body: "Verification required: This PR updates the Latest Activity section."
+          branch: "bot-activity-update"
