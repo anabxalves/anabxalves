@@ -22,15 +22,39 @@ I'm a **Software Engineer & Fullstack Developer** based in Recife/PE, currently 
 <table border="0">
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,c" /></td>
+    <td>
+      <div style="display: inline_block">
+        <img src="https://custom-icon-badges.demolab.com/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/Python-%233776AB.svg?logo=python&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/C-%2300599C.svg?logo=c&logoColor=white">
+      </div>
+    </td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,js,html,css" /></td>
+    <td>
+      <div style="display: inline_block">
+        <img src="https://custom-icon-badges.demolab.com/badge/React-%2320232A.svg?logo=react&logoColor=61DAFB">
+        <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+        <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+      </div>
+    </td>
   </tr>
   <tr>
     <td><b>Cloud & Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,aws,githubactions,mysql,postgres,postman" /></td>
+    <td>
+      <div style="display: inline_block">
+        <img src="https://custom-icon-badges.demolab.com/badge/Docker-%232496ED.svg?logo=docker&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Actions-%232088FF.svg?logo=github&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white">
+      </div>
+    </td>
   </tr>
 </table>
 
