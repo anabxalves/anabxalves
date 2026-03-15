@@ -68,6 +68,6 @@ I'm a **Software Engineer & Fullstack Developer** based in Recife/PE, currently 
 
 ### 🗞️ Latest Activity
 
-⭐ **Starred**: `daria-stanilevici`
+*No public activity detected in the last 30 days.*
 
-> 🕒 *Last synced: 2026-02-01 02:12*
+> 🕒 *Last synced: 2026-03-15 02:12*
